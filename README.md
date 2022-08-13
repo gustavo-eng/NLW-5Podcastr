@@ -1,4 +1,8 @@
+<span align="center">
+
+
 ![favicon](https://user-images.githubusercontent.com/75026003/184460882-251e87de-4868-4c99-b1c2-215249bfc194.png)
+</span>
 
 # NLW-5Podcastr
 
@@ -6,7 +10,6 @@
 
 
 <h4>  Tecnologias utilizadas: </h4>
-
 
 ![tech-logos](https://user-images.githubusercontent.com/75026003/184461079-8bfaa5f7-024b-4200-b049-552a02b5cb4c.png)
 <ul>
